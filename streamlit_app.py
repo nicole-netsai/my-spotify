@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.manifold import TSNE
-from sklearn.decomposition import PCA
-from sklearn.metrics import euclidean_distances
-from scipy.spatial.distance import cdist
-from yellowbrick.target import FeatureCorrelation
+#from sklearn.manifold import TSNE
+#from sklearn.decomposition import PCA
+#from sklearn.metrics import euclidean_distances
+#from scipy.spatial.distance import cdist
+#from yellowbrick.target import FeatureCorrelation
 import warnings
 warnings.filterwarnings("ignore")
 
