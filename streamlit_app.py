@@ -3,8 +3,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-!pip install scipy
-from scipy.spatial.distance import cdist
+#from scipy.spatial.distance import cdist
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.cluster import KMeans
