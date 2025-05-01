@@ -1,6 +1,5 @@
 # prompt: write streamlit code for the recommender system above
 
-!pip install streamlit
 import streamlit as st
 import pandas as pd
 import numpy as np
